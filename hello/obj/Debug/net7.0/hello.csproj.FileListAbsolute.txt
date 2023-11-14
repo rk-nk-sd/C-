@@ -1,0 +1,15 @@
+/home/roman/Рабочий стол/C#/lesson1/hello/bin/Debug/net7.0/hello
+/home/roman/Рабочий стол/C#/lesson1/hello/bin/Debug/net7.0/hello.deps.json
+/home/roman/Рабочий стол/C#/lesson1/hello/bin/Debug/net7.0/hello.runtimeconfig.json
+/home/roman/Рабочий стол/C#/lesson1/hello/bin/Debug/net7.0/hello.dll
+/home/roman/Рабочий стол/C#/lesson1/hello/bin/Debug/net7.0/hello.pdb
+/home/roman/Рабочий стол/C#/lesson1/hello/obj/Debug/net7.0/hello.csproj.AssemblyReference.cache
+/home/roman/Рабочий стол/C#/lesson1/hello/obj/Debug/net7.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/Рабочий стол/C#/lesson1/hello/obj/Debug/net7.0/hello.AssemblyInfoInputs.cache
+/home/roman/Рабочий стол/C#/lesson1/hello/obj/Debug/net7.0/hello.AssemblyInfo.cs
+/home/roman/Рабочий стол/C#/lesson1/hello/obj/Debug/net7.0/hello.csproj.CoreCompileInputs.cache
+/home/roman/Рабочий стол/C#/lesson1/hello/obj/Debug/net7.0/hello.dll
+/home/roman/Рабочий стол/C#/lesson1/hello/obj/Debug/net7.0/refint/hello.dll
+/home/roman/Рабочий стол/C#/lesson1/hello/obj/Debug/net7.0/hello.pdb
+/home/roman/Рабочий стол/C#/lesson1/hello/obj/Debug/net7.0/hello.genruntimeconfig.cache
+/home/roman/Рабочий стол/C#/lesson1/hello/obj/Debug/net7.0/ref/hello.dll
